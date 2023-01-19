@@ -20,6 +20,6 @@ const styles = StyleSheet.create({
         backgroundColor: 'blue'
     },
     label: {
-        color: 'white'
+        color: 'green'
     }
 });
